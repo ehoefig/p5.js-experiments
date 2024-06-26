@@ -8,6 +8,7 @@ Should be mostly in [p5.js](https://p5js.org) and [Processing](https://processin
  - *foundation*: Standard starting points for p5.js sketches (custom index.html)
  - *datashadow*: Shadow landscape from statistical data (Processing, Blender)
  - *gauges*: Generating circular gauges (p5.js)
+ - *daisy*: Generatge a daisy (p5.js)
 ---------
 
 All files provided through this github repository are by [Edzard Höfig](https://edzard.net) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), unless otherwise noted.
